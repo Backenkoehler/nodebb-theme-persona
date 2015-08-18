@@ -1,18 +1,5 @@
 	</div><!--END container -->
-	<style>
-	html {
-	  position: relative;
-	  min-height: 100%;
-	}
-	.footer {
-	    width: 100%;
-	    height: 60px;
-	    background-color: white;
-	    bottom: 0;
-	    position: absolute;
-	}
 
-	</style>
 	<footer class="footer">
 	      <div class="container">
 	        <p class="text-muted">Place sticky footer content here.</p>
