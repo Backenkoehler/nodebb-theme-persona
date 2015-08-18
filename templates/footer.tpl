@@ -2,7 +2,7 @@
 
 	<footer class="footer">
 	      <div class="container text-center">
-	        <p class="text-muted" style="line-height: 60px;"><a href="/imprint">Impressum</a> | <a href="/privacy-policy">Privacy Policy</a> | <a href="/toc">Terms and Conditions</a></p>
+	        <p class="text-muted" style="line-height: 60px; margin:0; padding:0;"><a href="/imprint">Impressum</a> | <a href="/privacy-policy">Privacy Policy</a> | <a href="/toc">Terms and Conditions</a></p>
 	      </div>
         </footer>
 	<div class="hide tpl-500">
