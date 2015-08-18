@@ -1,8 +1,8 @@
 	</div><!--END container -->
 
 	<footer class="footer">
-	      <div class="container">
-	        <p class="text-muted">Place sticky footer content here.</p>
+	      <div class="container text-center">
+	        <p class="text-muted"><a href="/imprint">Impressum</a> | <a href="/private-policy">Privacy Policy</a> | <a href="/toc">Terms and Conditions</a></p>
 	      </div>
         </footer>
 	<div class="hide tpl-500">
